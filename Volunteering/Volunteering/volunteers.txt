@@ -1,0 +1,6 @@
+Sarah Johnson;sarah.johnson@example.com;Software Development,Cybersecurity,Data Science;No department
+Robert Williams;robert.williams@example.com;IT Support and Helpdesk,Networking and Infrastructure,Cloud Computing;No department
+Michael Brown;michael.brown@example.com;Process Improvement,Supply Chain Management,Logistics and Inventory Control;Operations
+Jessica Lee;jessica.lee@example.com;Vendor Relations,Project Management;Operations
+Kevin Stone;kevin.stone@example.com;Team Management;No department
+Luke Belmar;luke.belmar@exemple.com;Leadership,Cybersecurity;No department
