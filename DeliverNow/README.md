@@ -28,6 +28,10 @@ The application automatically updates the packages file upon closure, ensuring d
 
 This Package Delivery Management System streamlines the logistics process, providing a scalable and synchronized solution for courier companies.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 
 1. The information about all registered couriers is in a text file. Each Courier has a name (string), a list of assigned streets and a zone, given as a circle (coordinates for centre and a radius). This file is manually created and it is read when the application starts.
 2. Another file contains information about packages. Each Package has a recipient (string), an address street and number, the location (2 coordinates), and a delivery status (bool). These are read when the application starts.
