@@ -27,7 +27,3 @@ The application automatically updates the packages file upon closure, ensuring d
 3. Explore the intuitive user interface to manage couriers, packages, and deliveries efficiently.
 
 This Package Delivery Management System streamlines the logistics process, providing a scalable and synchronized solution for courier companies.
-
-## License
-
-This project is licensed under the MIT License.
